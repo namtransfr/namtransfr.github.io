@@ -1,0 +1,106 @@
+[
+  {
+    "query": "Professional portrait photo of a young Asian woman in business attire for portfolio website profile picture",
+    "image_info": {
+      "url": "https://img.freepik.com/free-photo/portrait-young-adult-smart-asian-business-woman-black-casual-suit-office_640221-196.jpg?semt=ais_hybrid&w=740&q=80",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 79987,
+      "width": 740,
+      "height": 1109,
+      "total_pixels": 820660,
+      "basic_score": 0.8981245762786607,
+      "file_name": "professional-asian-businesswoman-portrait-office.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 96.0,
+      "explanation": "The image perfectly aligns with the search query and prompt. It features a young Asian woman in professional business formal attire within a modern office context. The lighting is soft and professional, the subject is in sharp focus, and the composition is excellent for a portfolio or profile picture. There are no watermarks.",
+      "file_name": "professional-asian-businesswoman-portrait-office.jpg",
+      "caption": "A professional portrait of a smiling young Asian businesswoman wearing a black blazer and trousers, leaning casually against a wooden office chair with a blurred modern office background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional portrait photo of a young Asian woman in business attire for portfolio website profile picture",
+    "image_info": {
+      "url": "https://i.pinimg.com/736x/26/76/96/267696c0dff7790b8ff76f2cab15eac2.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 44551,
+      "width": 736,
+      "height": 1103,
+      "total_pixels": 811808,
+      "basic_score": 0.8937067115528127,
+      "file_name": "professional-asian-businesswoman-portrait-suit.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is an exact match for the search query and prompt, featuring a professional studio aesthetic. The lighting, sharpness, and attire are perfect for corporate use. The image is clean without any watermarks.",
+      "file_name": "professional-asian-businesswoman-portrait-suit.jpg",
+      "caption": "A professional studio portrait of a young Asian businesswoman wearing a formal black suit and white shirt, standing against a grey gradient background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional portrait photo of a young Asian woman in business attire for portfolio website profile picture",
+    "image_info": {
+      "url": "https://thumbs.dreamstime.com/b/confident-business-asian-woman-isolated-studio-shot-portrait-professional-working-people-copy-space-186911650.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 22466,
+      "width": 800,
+      "height": 534,
+      "total_pixels": 427200,
+      "basic_score": 0.8265680032316742,
+      "file_name": "professional-asian-businesswoman-portrait-arms-crossed.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 50.0,
+      "overall_score": 80.0,
+      "explanation": "The image perfectly matches the search query and prompt, featuring professional studio lighting, appropriate business attire, and the correct demographic. The pose is confident and suitable for a corporate profile. However, there is a faint stock photo watermark pattern visible in the background, which affects immediate usability without licensing.",
+      "file_name": "professional-asian-businesswoman-portrait-arms-crossed.jpg",
+      "caption": "A studio portrait of a smiling young Asian woman in professional business attire, standing with arms crossed against a plain light grey background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional portrait photo of a young Asian woman in business attire for portfolio website profile picture",
+    "image_info": {
+      "url": "https://thumbs.dreamstime.com/b/asian-businesswoman-serious-business-woman-portrait-chinese-professional-black-suit-city-background-downtown-people-196074675.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 47765,
+      "width": 600,
+      "height": 900,
+      "total_pixels": 540000,
+      "basic_score": 0.8537807371858189,
+      "file_name": "professional-asian-businesswoman-portrait-crossed-arms.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 20.0,
+      "overall_score": 75.0,
+      "explanation": "The image is an excellent match for the search query, featuring a confident subject with professional attire and a suitable corporate background. The photography features sharp focus and good lighting. However, there is a visible stock photography watermark overlaying the image, which necessitates licensing for professional use.",
+      "file_name": "professional-asian-businesswoman-portrait-crossed-arms.jpg",
+      "caption": "A medium shot of a confident young Asian businesswoman with crossed arms, wearing a navy blazer, standing against a blurred backdrop of modern glass skyscrapers.",
+      "recommend": true,
+      "error": ""
+    }
+  }
+]
